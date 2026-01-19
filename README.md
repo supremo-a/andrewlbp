@@ -1,69 +1,170 @@
-<!-- HEADER -->
 <div align="center">
 
-# 😎 ANDREW LBP
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHd5Ym43bTlmNHU3ZmEweGV5c3lwMjEwZG9ydnpraHc0Yzg5OGJlOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" width="420">
+### 😎 **Laurence Andrew**
 
-### *“Jeremiah 29:11”* 👌🙏
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHd5Ym43bTlmNHU3ZmEweGV5c3lwMjEwZG9ydnpraHc0Yzg5OGJlOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" width="420"" />
+
+💻
+
 </div>
 
 ---
 
-## 💻 **Coding Activity**
+## About Me 😎
+
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=supremo-a&theme=react-dark&area=true&hide_border=true&custom_title=Andrew's%20Coding%20Activity" width="95%">
+
+Hello there! I'm **Laurence Andrew**, a **3rd-year Computer Science student**
+
+🎓 **BS Information Technology**  
+💻 **Aspiring Web Developer**  
+🌱 **Always Learning, Growing, Loving**
+
 </div>
 
 ---
 
-## 🌐 **Connect with Me**
+## 💭 Quote of the Day
+
 <div align="center">
-<a href="https://www.facebook.com/wes.cas505" target="_blank">
-  <img src="https://i.pinimg.com/736x/04/7d/60/047d603f517f98cd681da68bbd87ee85.jpg" height="50" style="border-radius:50%">
+
+**The Yukon is the place for us! / That's where we want to live. / Up there we'll get to yell and cuss, / And act real primitive.**
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.facebook.com/chiel.obias.7/">
+<img src="https://www.facebook.com/wes.cas505" />
 </a>
-<a href="https://www.instagram.com/invites/contact/?igsh=6nzdg900cvfn&utm_content=vwc7138" target="_blank">
-  <img src="https://i.pinimg.com/736x/58/a2/be/58a2bec02ecb40d12e507e2a212c46c6.jpg" height="50" style="border-radius:50%">
+<a href="https://www.instagram.com/chielang_21">
+<img src="https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=vwc7138" />
 </a>
-<a href="www.tiktok.com/@_supremo.a" target="_blank">
-  <img src="https://i.pinimg.com/736x/09/43/6c/09436cae0890444c40626329c65075b2.jpg" height="50" style="border-radius:50%">
+<a href="https://www.tiktok.com/@chielobias21">
+<img src="https://www.tiktok.com/@_supremo.a?_r=1&_d=secCgYIASAHKAESPgo83gOAh36hdvB45njGv1VIC506Q%2BUVubN%2FHI%2BLwsLN4%2BcMdHARmPyudtSJqlH%2FzTdx7AsB%2FrfXpGd05bSHGgA%3D&_svg=1&checksum=56980ba8ceb274859499acce6717156f31d5c25d94ff87f6fbe0514f06425a9f&item_author_type=1&sec_uid=MS4wLjABAAAAEEsxCCAjMtBd63o7lTWU6gmN09vBzu7chesY5eGkVAQSStW9dTJ0HcEawuT_J6lM&sec_user_id=MS4wLjABAAAAEEsxCCAjMtBd63o7lTWU6gmN09vBzu7chesY5eGkVAQSStW9dTJ0HcEawuT_J6lM&share_app_id=1180&share_author_id=6540609068321494016&share_link_id=1f3f8dc4-0382-4120-bf39-260be752a5be&share_region=PH&share_scene=1&sharer_language=en&social_share_type=5&source=h5_t&timestamp=1768840997&u_code=cmace725065e9i&ug_btm=b8727%2Cb4907&ugbiz_name=ACCOUNT&user_id=6540609068321494016&utm_campaign=client_share&utm_medium=android&utm_source=copy" />
 </a>
-<a href="https://discord.gg/Q5rp5S4W" target="_blank">
-  <img src="https://pngimg.com/uploads/discord/discord_PNG7.png" height="50" style="border-radius:50%">
+<a href="https://discord.com/users/1444480963299115039">
+<img src="https://discord.gg/waER3Dq7" />
 </a>
+
+<br><br>
+
+📧 **Email Me**  
+<a href="mailto:xlaurence02@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
-# 📊 **GitHub Dashboard**
+## 🛠️ Technical Skills
 
 <div align="center">
 
-<h2 align="center">📈 Stats 📉</h2>
+<table>
+<tr>
 
-<br>
+<td align="center" width="33%">
 
-<div align=center>
+### 🎨 Frontend
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=supremo-a&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+</td>
 
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=supremo-a&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<td align="center" width="33%">
 
-  <br/>
+### ⚙️ Backend
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" />
 
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=supremo-a&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</td>
+
+<td align="center" width="33%">
+
+### 🗄️ Database
+<img src="https://img.shields.io/badge/MS_Access-A4373A?style=flat&logo=microsoft-access&logoColor=white" />
+
+</td>
+
+</tr>
+</table>
 
 </div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="360" src="https://github-readme-stats-salesp07.vercel.app/api?username=supremo-a&count_private=true&show_icons=true&theme=react&title_color=FF2DAA&icon_color=FF5FD2&text_color=FFA3E0&rank_icon=github&border_radius=10" />
+
+<br><br>
+
+<div align="center">
+
+<img width="360" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=supremo-a&count_private=true&theme=react&ring=FF2DAA&fire=FF5FD2&currStreakLabel=FF2DAA&sideLabels=FF2DAA&dates=FFA3E0&border_radius=10" />
+<img width="360" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=supremo-a&hide=HTML&langs_count=8&layout=compact&theme=react&title_color=FF2DAA&text_color=FFA3E0&border_radius=10" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=supremo-a&limit=5&theme=tokyonight&bg_color=1a1b27&title_color=FF2DAA&text_color=FFA3E0&combine_all_yearly_contributions=true" />
+</div>
+</div>
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=supremo-a&bg_color=0d1117&color=FF2DAA&line=FF5FD2&point=FFA3E0&area=true&hide_border=true" />
+<div align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=supremo-a&bg_color=0d1117&color=FF2DAA&line=FF5FD2&point=FFA3E0&area=true&hide_border=true" />
+</div>
+
+</div>
+
+---
+
+## 📝 Credits
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<a href="https://github.com/mishmanners">
+<img src="https://avatars.githubusercontent.com/u/36594527?v=4" width="90px;" />
+<br />
+<sub><b>MishManners®™</b></sub>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/noobgamingph">
+<img src="https://github.com/noobgamingph.png" width="90px;" />
+<br />
+<sub><b>Noob_GamingPH</b></sub>
+</a>
+</td>
+
+</tr>
+</table>
+
+Thanks to the amazing open-source community!
+
 </div>
 
 ---
 
 <div align="center">
-👌 Salamat for visiting!  
-See through my repositories and leave some stars 🌟
+
+**Chiel**
+
 </div>
-
----
-
-# 📝 **Credits**
-- <a href="https://github.com/mishmanners">MishManners®™</a>  
-- <a href="https://github.com/noobgamingph">Noob_GamingPH</a>
