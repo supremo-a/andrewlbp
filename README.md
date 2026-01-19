@@ -38,17 +38,17 @@ Hello there! I'm **Laurence Andrew**, a **3rd-year Computer Science student**
 
 <div align="center">
 
-<a href="https://www.facebook.com/chiel.obias.7/">
-<img src="https://www.facebook.com/wes.cas505" />
+<a href="https://www.facebook.com/wes.cas505">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/chielang_21">
-<img src="https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=vwc7138" />
+<a href="https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=vwc7138">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.tiktok.com/@chielobias21">
-<img src="https://www.tiktok.com/@_supremo.a?_r=1&_d=secCgYIASAHKAESPgo83gOAh36hdvB45njGv1VIC506Q%2BUVubN%2FHI%2BLwsLN4%2BcMdHARmPyudtSJqlH%2FzTdx7AsB%2FrfXpGd05bSHGgA%3D&_svg=1&checksum=56980ba8ceb274859499acce6717156f31d5c25d94ff87f6fbe0514f06425a9f&item_author_type=1&sec_uid=MS4wLjABAAAAEEsxCCAjMtBd63o7lTWU6gmN09vBzu7chesY5eGkVAQSStW9dTJ0HcEawuT_J6lM&sec_user_id=MS4wLjABAAAAEEsxCCAjMtBd63o7lTWU6gmN09vBzu7chesY5eGkVAQSStW9dTJ0HcEawuT_J6lM&share_app_id=1180&share_author_id=6540609068321494016&share_link_id=1f3f8dc4-0382-4120-bf39-260be752a5be&share_region=PH&share_scene=1&sharer_language=en&social_share_type=5&source=h5_t&timestamp=1768840997&u_code=cmace725065e9i&ug_btm=b8727%2Cb4907&ugbiz_name=ACCOUNT&user_id=6540609068321494016&utm_campaign=client_share&utm_medium=android&utm_source=copy" />
+<a href="https://www.tiktok.com/@_supremo.a?_r=1&_d=secCgYIASAHKAESPgo87iVQEP7nzOUin%2BP1qUGP3FosmhGQ%2FC1UH2zHIxr3tBAdHyf45r9ER%2BfoP2pL6wlDg3mGZo3ZehWtiRcCGgA%3D&_svg=1&checksum=5acdca5032734512e916acee6ce816e12f2eab9163dbe9444830a1ef8c38dc4c&item_author_type=1&sec_uid=MS4wLjABAAAAEEsxCCAjMtBd63o7lTWU6gmN09vBzu7chesY5eGkVAQSStW9dTJ0HcEawuT_J6lM&sec_user_id=MS4wLjABAAAAEEsxCCAjMtBd63o7lTWU6gmN09vBzu7chesY5eGkVAQSStW9dTJ0HcEawuT_J6lM&share_app_id=1180&share_author_id=6540609068321494016&share_link_id=980af7a9-59fb-439d-a6e4-e65aae5ead72&share_region=PH&share_scene=1&sharer_language=en&social_share_type=5&source=h5_t&timestamp=1768841436&u_code=cmace725065e9i&ug_btm=b8727%2Cb4907&ugbiz_name=ACCOUNT&user_id=6540609068321494016&utm_campaign=client_share&utm_medium=android&utm_source=copy">
+<img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" />
 </a>
-<a href="https://discord.com/users/1444480963299115039">
-<img src="https://discord.gg/waER3Dq7" />
+<a href="https://discord.gg/waER3Dq7">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
 </a>
 
 <br><br>
