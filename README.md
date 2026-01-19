@@ -2,7 +2,7 @@
 
 ### 😎 **Laurence Andrew**
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHd5Ym43bTlmNHU3ZmEweGV5c3lwMjEwZG9ydnpraHc0Yzg5OGJlOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" width="420"" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHd5Ym43bTlmNHU3ZmEweGV5c3lwMjEwZG9ydnpraHc0Yzg5OGJlOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif" width="420" />
 
 💻
 
